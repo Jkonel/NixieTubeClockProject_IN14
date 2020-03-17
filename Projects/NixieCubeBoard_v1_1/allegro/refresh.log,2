@@ -1,0 +1,166 @@
+Wed Feb 19 02:16:00 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Wed Feb 19 02:16:00 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : NixieTubeBoard_v1_1.brd                       )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Wed Feb 19 02:16:01 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Feb 19 02:16:01 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/NixieTubeBoard_v1_1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'YES'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  D:/E/Project/CadenceProject/Library/ 
+           D:/E/Project/CadenceProject/Library/Pads/Flash/ 
+           D:/E/Project/CadenceProject/Library/Pads/Symbols/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/9001/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/BATTERY/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/BGA/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/C/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/CONNECTOR/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/D/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/DIP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Electron Tube/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/1_27/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/2_00/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/2_54/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/LED/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/LQFP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Mechanical/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/OSC/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/R/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOIC/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOT/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SWITCH/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/TO/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/TSOP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/L/ 
+
+PADPATH =  D:/E/Project/CadenceProject/Library/ 
+           D:/E/Project/CadenceProject/Library/Pads/ 
+           D:/E/Project/CadenceProject/Library/Pads/Pad_LB/ 
+           D:/E/Project/CadenceProject/Library/Pads/Flash/ 
+
+
+------ Symbol Refresh Messages ------
+
+'MECHANICAL_HOLE_4_5_3_0'  symbol refreshed successfully.
+'XH_2_54_WS_6P'  symbol refreshed successfully.
+'3296W'  symbol refreshed successfully.
+
+'TSW_6_0_6_0_4_3_V'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'TSW_6_0_6_0_4_3_V': 'Cannot modify element; the object or a parent has the FIXED p~
+     roperty. [help]'.
+     
+'SOP8'  symbol refreshed successfully.
+'TO458P1000X230-3N'  symbol refreshed successfully.
+'SOT89'  symbol refreshed successfully.
+'SOP127P600X140-16N'  symbol refreshed successfully.
+'DIP16_300'  symbol refreshed successfully.
+'SOIC127P600X150-8N'  symbol refreshed successfully.
+'DO_35'  symbol refreshed successfully.
+'CDRH104R'  symbol refreshed successfully.
+'CAP_1_5X4X8'  symbol refreshed successfully.
+'SOP16_W'  symbol refreshed successfully.
+'CR1220_A'  symbol refreshed successfully.
+'TSW_SMD_3_0_6_0_4_3'  symbol refreshed successfully.
+'CSW_1_27_SMD_2P'  symbol refreshed successfully.
+'OSC_HC_49S'  symbol refreshed successfully.
+'LQFP64_10X10'  symbol refreshed successfully.
+
+'IN_14'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'IN_14': 'Cannot modify element; the object or a parent has the FIXED property. [he~
+     lp]'.
+     
+
+'NIXIEBULB_2_54'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'NIXIEBULB_2_54': 'Cannot modify element; the object or a parent has the FIXED prop~
+     erty. [help]'.
+     
+'SOT223_N'  symbol refreshed successfully.
+
+'USB_MICRO_A'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'USB_MICRO_A': 'Cannot modify element; the object or a parent has the FIXED propert~
+     y. [help]'.
+     
+'R_0805_M'  symbol refreshed successfully.
+'LED_0805'  symbol refreshed successfully.
+'CD_A3216'  symbol refreshed successfully.
+'C_0805_M'  symbol refreshed successfully.
+'F_CRICLE4_5_CRICLE_3_0'  symbol refreshed successfully.
+'F_CRICLE0_8_CIRCLE0_4'  symbol refreshed successfully.
+'F_CRICLE0_9_CIRCLE0_45'  symbol refreshed successfully.
+Wed Feb 19 02:16:01 2020				Page     2
+
+
+'F_CRICLE0_7_CIRCLE0_35'  symbol refreshed successfully.
+'F_CRICLE2_3_CRICLE_1_3'  symbol refreshed successfully.
+'SOT89_PAD'  symbol refreshed successfully.
+'SOT89_MASK'  symbol refreshed successfully.
+
+'AB00'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'AB00' symbol unable to find in directory search path.
+'F_CRICLE0_6_CIRCLE0_3'  symbol refreshed successfully.
+
+'SHA_SOT89'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SHA_SOT89' symbol unable to find in directory search path.
+
+'SHA_SOT89MSK'  symbol starting to refresh:
+     WARNING(SPMHNI-252): 'SHA_SOT89MSK' symbol unable to find in directory search path.
+'F_CRICLE1_3_CIRCLE0_6'  symbol refreshed successfully.
+'F_RECTANGLE1_5_2_0_OBLONG1_1_0_5_HOLE'  symbol refreshed successfully.
+'F_CRICLE1_0_CIRCLE0_5'  symbol refreshed successfully.
+'F_CRICLE1_4_CRICLE_0_8'  symbol refreshed successfully.
+'F_SQUARE1_5_CRICLE_0_9'  symbol refreshed successfully.
+'F_CRICLE1_5_CRICLE_0_7'  symbol refreshed successfully.
+'F_SQUARE1_7_CRICLE_0_9'  symbol refreshed successfully.
+'F_CRICLE1_35_CIRCLE0_75'  symbol refreshed successfully.
+'F_CRICLE1_2_CIRCLE0_6'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Refresh symbol errors; due to these errors this design is NOT updated.
+       5  errors detected.
+       3  warnings detected.

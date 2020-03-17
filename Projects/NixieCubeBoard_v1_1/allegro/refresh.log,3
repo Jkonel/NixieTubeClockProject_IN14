@@ -1,0 +1,91 @@
+Wed Feb 19 14:08:55 2020				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Wed Feb 19 14:08:55 2020
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : NixieTubeBoard_v1_1.brd                       )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Wed Feb 19 14:08:56 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Feb 19 14:08:56 2020				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/NixieTubeBoard_v1_1.brd'
+Output design = ''
+
+Update STEP mapping data only          = 'YES'
+Update mechanical symbols              = 'YES'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  D:/E/Project/CadenceProject/Library/ 
+           D:/E/Project/CadenceProject/Library/Pads/Flash/ 
+           D:/E/Project/CadenceProject/Library/Pads/Symbols/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/9001/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/BATTERY/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/BGA/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/C/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/CONNECTOR/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/D/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/DIP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Electron Tube/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/1_27/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/2_00/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Header&FemaleHeader/2_54/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/LED/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/LQFP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/Mechanical/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/OSC/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/R/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOIC/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SOT/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/SWITCH/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/TO/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/TSOP/ 
+           D:/E/Project/CadenceProject/Library/PCBPackages/L/ 
+
+PADPATH =  D:/E/Project/CadenceProject/Library/ 
+           D:/E/Project/CadenceProject/Library/Pads/ 
+           D:/E/Project/CadenceProject/Library/Pads/Pad_LB/ 
+           D:/E/Project/CadenceProject/Library/Pads/Flash/ 
+
+
+------ Symbol Refresh Messages ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 27 out 27
+    Design updated.
+

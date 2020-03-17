@@ -1,0 +1,29 @@
+{ Using PSTWRITER 17.2.0 d001Feb-19-2020 at 15:38:20 }
+
+#1 WARNING(ORCAP-36006): Part Name "NIXIE_BULB_NIXIEBULB_2_54_NIXIE_BULB_HM" is renamed to "NIXIE_BULB_NIXIEBULB_2_54_NIXIE".
+#2 WARNING(ORCAP-36006): Part Name "FEMALEHEADER_XH_2_54_WS_6P_XH_2_54_WS_6P_FEMALEHEADER_XH_2_54_WS_6P" is renamed to "FEMALEHEADER_XH_2_54_WS_6P_XH_2".
+#3 WARNING(ORCAP-36006): Part Name "TK8P65W_TO458P1000X230-3N_TK8P65W" is renamed to "TK8P65W_TO458P1000X230-3N_TK8P6".
+#4 WARNING(ORCAP-36006): Part Name "SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_3_V_SW_TSW_6X6X4_3_V" is renamed to "SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_".
+#5 WARNING(ORCAP-36006): Part Name "SW_TSW_SMD_3X6X4_3_TSW_SMD_3_0_6_0_4_3_SW_TSW_SMD_3X6X4_3" is renamed to "SW_TSW_SMD_3X6X4_3_TSW_SMD_3_0_".
+#6 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#5" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#7 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#6" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#8 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#7" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#9 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#8" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#10 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#9" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#11 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#10" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#12 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#11" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#13 WARNING(ORCAP-36042): Pin "N.C." is renamed to "N.C.#12" as visible power pin of same name already exists in Package DS3231 , U1: SCHEMATIC1, MCU_Control_Cricuit (196.85, 27.94).
+#14 WARNING(ORCAP-36006): Part Name "74HC595D_SOP127P600X140-16N_74HC595D" is renamed to "74HC595D_SOP127P600X140-16N_74H".
+#15 WARNING(ORCAP-36006): Part Name "STM32F103RC_LQFP64_10X10_STM32F103RC" is renamed to "STM32F103RC_LQFP64_10X10_STM32F".
+#16 WARNING(ORCAP-36006): Part Name "AO48XX_SOIC127P600X150-8N_AO48XX" is renamed to "AO48XX_SOIC127P600X150-8N_AO48X".
+#17 WARNING(ORCAP-36006): Part Name "AMS1117_3V3_SOT223_N_AMS1117_3V3" is renamed to "AMS1117_3V3_SOT223_N_AMS1117_3V".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\E\PROJECT\CADENCEPROJECT\NIXIECUBEBOARD_V1_1\allegro/pstchip.dat
+
+Loading... D:\E\PROJECT\CADENCEPROJECT\NIXIECUBEBOARD_V1_1\allegro/pstchip.dat
+
+Loading... D:\E\PROJECT\CADENCEPROJECT\NIXIECUBEBOARD_V1_1\allegro/pstchip.dat
+
+Loading... D:\E\PROJECT\CADENCEPROJECT\NIXIECUBEBOARD_V1_1\allegro/pstxnet.dat
+packaging the design view...

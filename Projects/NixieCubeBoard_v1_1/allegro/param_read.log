@@ -1,0 +1,32 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : NixieTubeBoard_v1_1.brd                       )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Thu Feb 13 16:39:21 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : D:/E/Project/CadenceProject/Library/allegro_setting_for_device.prm
+	Layout Name   : NixieTubeBoard_v1_1.brd
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...probe_parm_type:
+Reading...drf_parm_type:
+Reading...dynfill_parm_type:
+Reading...ats_parm_type:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...placement_parameter_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

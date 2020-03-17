@@ -1,0 +1,23 @@
+;EXTENTS: -100.000 -150.000 300.000 150.000 
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/NixieTubeBoard_v1_1_1-2.rou for board D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/#Taaaabf13104.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X20924159Y02966000
+G40
+M15
+G01X20984160Y02966000
+M16
+G00X20924159Y02241000
+G40
+M15
+G01X20984160Y02241000
+M16
+G40
+M30

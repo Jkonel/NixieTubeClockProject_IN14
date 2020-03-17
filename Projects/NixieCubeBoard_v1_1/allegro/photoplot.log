@@ -1,0 +1,532 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : NixieTubeBoard_v1_1.brd                       )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Wed Feb 19 18:26:59 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     1.37000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.70000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  0.95000     x 2.10000       0.000 NO     DARK 
+  RECTANGLE  1.10000     x 2.10000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 3.60000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.75000      90.000 NO     DARK 
+  RECTANGLE  1.62400     x 1.37000      90.000 NO     DARK 
+  RECTANGLE  1.70000     x 0.45000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 3.60000      90.000 NO     DARK 
+  RECTANGLE  2.39500     x 1.44000      90.000 NO     DARK 
+  RECTANGLE  2.60000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  3.10000     x 5.10000      90.000 NO     DARK 
+  RECTANGLE  3.30000     x 2.10000       0.000 NO     DARK 
+  RECTANGLE  4.10000     x 2.60000       0.000 NO     DARK 
+  RECTANGLE  6.08500     x 5.64000      90.000 NO     DARK 
+  OBLONG     1.90000     x 0.40000       0.000 NO     DARK 
+  OBLONG     1.90000     x 0.40000      90.000 NO     DARK 
+  OBLONG     1.92500     x 0.70000       0.000 NO     DARK 
+  OBLONG     2.10000     x 0.70000       0.000 NO     DARK 
+  OBLONG     2.10000     x 0.70000      90.000 NO     DARK 
+  OBLONG     2.67500     x 0.85000       0.000 NO     DARK 
+  PAD SHAPE  SOT89_MASK                270.000 YES    DARK 
+  PAD SHAPE  CHAMFERED_RECTANGLE ,2500 270.000 YES    DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  CIRCLE     4.60000                                  DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.30000     x 3.60000      90.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 3.60000      90.000 NO     DARK 
+  RECTANGLE  3.10000     x 5.10000      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAWING >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/DRILL_DRAWING.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     DRILL_DRAWING created.
+
+
+================================================================
+     PROCESSING FILM < ETCH_BOTTOM >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/ETCH_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (1).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.40640                                  DARK 
+  CIRCLE     0.45720                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.30000                                  DARK 
+  CIRCLE     4.50000                                  DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.27000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  2.29500     x 1.34000      90.000 NO     DARK 
+  RECTANGLE  2.50000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 5.00000      90.000 NO     DARK 
+  RECTANGLE  3.20000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.50000       0.000 NO     DARK 
+  RECTANGLE  5.98500     x 5.54000      90.000 NO     DARK 
+  OBLONG     1.80000     x 0.30000       0.000 NO     DARK 
+  OBLONG     1.80000     x 0.30000      90.000 NO     DARK 
+  OBLONG     1.82500     x 0.60000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.60000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.60000      90.000 NO     DARK 
+  OBLONG     2.57500     x 0.75000       0.000 NO     DARK 
+  PAD SHAPE  SOT89_PAD                 270.000 YES    DARK 
+  PAD SHAPE  CHAMFERED_RECTANGLE ,2500 270.000 YES    DARK 
+
+     ETCH_BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < ETCH_TOP >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/ETCH_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.45720                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.30000                                  DARK 
+  CIRCLE     4.50000                                  DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.50000       0.000 NO     DARK 
+
+     ETCH_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.14990                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.14990                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+
+     SILKSCREEN_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.30000                                  DARK 
+  CIRCLE     4.50000                                  DARK 
+  SQUARE     1.27000                     0.000 NO     DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.70000     x 1.60000      90.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  1.00000     x 2.00000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.40000       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.40000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.52400     x 1.27000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  2.29500     x 1.34000      90.000 NO     DARK 
+  RECTANGLE  2.50000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 5.00000      90.000 NO     DARK 
+  RECTANGLE  3.20000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  4.00000     x 2.50000       0.000 NO     DARK 
+  RECTANGLE  5.98500     x 5.54000      90.000 NO     DARK 
+  OBLONG     1.80000     x 0.30000       0.000 NO     DARK 
+  OBLONG     1.80000     x 0.30000      90.000 NO     DARK 
+  OBLONG     1.82500     x 0.60000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.60000       0.000 NO     DARK 
+  OBLONG     2.00000     x 0.60000      90.000 NO     DARK 
+  OBLONG     2.57500     x 0.75000       0.000 NO     DARK 
+  PAD SHAPE  SOT89_PAD                 270.000 YES    DARK 
+  PAD SHAPE  CHAMFERED_RECTANGLE ,2500 270.000 YES    DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     0.90000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.35000                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.30000                                  DARK 
+  CIRCLE     4.50000                                  DARK 
+  SQUARE     1.35000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  2.00000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 3.50000      90.000 NO     DARK 
+  RECTANGLE  3.00000     x 5.00000      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < D:/E/Project/CadenceProject/NixieCubeBoard_v1_1/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+
+     OUTLINE created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        SOLDERMASK_BOTTOM created.
+        SOLDERMASK_TOP created.
+        DRILL_DRAWING created.
+        ETCH_BOTTOM created with warnings
+        ETCH_TOP created.
+        SILKSCREEN_BOTTOM created.
+        SILKSCREEN_TOP created.
+        PASTEMASK_BOTTOM created.
+        PASTEMASK_TOP created.
+        OUTLINE created.
+
+ ARTWORK had warnings

@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : NixieTubeBoard_v1_1.brd                       )
+(    Software Version : 17.2S058                                      )
+(    Date/Time        : Thu Feb 13 16:34:59 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : D:/E/Project/CadenceProject/Library/allegro_setting_for_board.prm
+	Layout Name   : NixieTubeBoard_v1_1.brd
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+	WARNING: The value of element <etchcount> is not equal to the number of 
+		   user defined subclass under ETCH class. 
+
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...profileCustomColors:
+Reading...text_size_table:
+Reading...av_parm_type:
+Reading...probe_parm_type:
+Reading...drf_parm_type:
+Reading...dynfill_parm_type:
+Reading...ats_parm_type:
+Reading...ifp_parm_type:
+Reading...ministat_parm_type:
+Reading...placement_parameter_type:
+Reading...thieving_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 1.

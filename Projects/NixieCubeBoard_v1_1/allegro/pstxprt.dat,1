@@ -1,0 +1,857 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Feb-19-2020 at 15:28:36 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='NIXIECUBEBOARD_V1_1';
+ POST_TIME='Aug  6 2019 19:29:12';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284016@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284016@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284016@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_0805_C_0805_M_22P':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284812@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284812@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284812@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_0805_C_0805_M_0.1U':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288475@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288475@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288475@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_0805_C_0805_M_47P':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287083@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287083@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287083@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_CAP_3_5_CAP_3_5X8X11_10UF':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS350073@MYLIBRARY.C_CAP_3_5.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins350073@mylibrary.\c_cap_3_5.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins350073@mylibrary.\c_cap_3_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_CAP_2_5_CAP_2_5X5X11_100UF':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS349164@MYLIBRARY.C_CAP_2_5.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins349164@mylibrary.\c_cap_2_5.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins349164@mylibrary.\c_cap_2_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS285712@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins285712@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins285712@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284704@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284704@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284704@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_0805_C_0805_M_22P':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284208@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284208@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284208@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284480@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284480@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284480@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284920@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284920@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284920@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS283904@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins283904@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins283904@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_0805_C_0805_M_104':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284884@MYLIBRARY.C_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284884@mylibrary.\c_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284884@mylibrary.\c_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CR1 'CR_3V_CR1220_A_CR_3V':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284740@MYLIBRARY.CR_3V.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284740@mylibrary.\cr_3v.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284740@mylibrary.\cr_3v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'BAV21_DO_35_BAV21':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287603@MYLIBRARY.BAV21.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287603@mylibrary.\bav21.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287603@mylibrary.\bav21.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E1 'E_0805_CD_A3216_10U/12V':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS285748@MYLIBRARY.E_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins285748@mylibrary.\e_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins285748@mylibrary.\e_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ E2 'E_0805_CD_A3216_10U/12V':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284956@MYLIBRARY.E_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284956@mylibrary.\e_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284956@mylibrary.\e_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ HY1 'NIXIE_BULB_NIXIEBULB_2_54_NIXIE':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288647@ELECTRON_NIXIE TUBE.NIXIE_BULB.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288647@\electron_nixie tube\.\nixie_bulb.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288647@\electron_nixie tube\.\nixie_bulb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ HY2 'NIXIE_BULB_NIXIEBULB_2_54_NIXIE':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288455@ELECTRON_NIXIE TUBE.NIXIE_BULB.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288455@\electron_nixie tube\.\nixie_bulb.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288455@\electron_nixie tube\.\nixie_bulb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP1 'FEMALEHEADER_XH_2_54_WS_6P_XH_2':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS327937@FEMALEHEADER.FEMALEHEADER_XH_2_54_WS_6P.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins327937@femaleheader.\femaleheader_xh_2_54_ws_6p.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins327937@femaleheader.\femaleheader_xh_2_54_ws_6p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'L_CDRH127_CDRH127_220UH':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS348072@MYLIBRARY.L_CDRH127.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins348072@mylibrary.\l_cdrh127.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins348072@mylibrary.\l_cdrh127.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LED1 'LED_0805_LED_0805_LED_R':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS283812@MYLIBRARY.LED_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins283812@mylibrary.\led_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins283812@mylibrary.\led_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'TK8P65W_TO458P1000X230-3N_TK8P6':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287759@MYLIBRARY.TK8P65W.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287759@mylibrary.\tk8p65w.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287759@mylibrary.\tk8p65w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MJE13001_FR_SOT89_MJE13001_FR':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS304049@MYLIBRARY.MJE13001_FR.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins304049@mylibrary.\mje13001_fr.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins304049@mylibrary.\mje13001_fr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MJE13001_FR_SOT89_MJE13001_FR':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS304095@MYLIBRARY.MJE13001_FR.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins304095@mylibrary.\mje13001_fr.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins304095@mylibrary.\mje13001_fr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MJE13001_FR_SOT89_MJE13001_FR':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS304183@MYLIBRARY.MJE13001_FR.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins304183@mylibrary.\mje13001_fr.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins304183@mylibrary.\mje13001_fr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MJE13001_FR_SOT89_MJE13001_FR':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS304141@MYLIBRARY.MJE13001_FR.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins304141@mylibrary.\mje13001_fr.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins304141@mylibrary.\mje13001_fr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0805_R_0805_M_2K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284460@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284460@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284460@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0805_R_0805_M_4.7K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287043@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287043@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287043@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0805_R_0805_M_4.7K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287583@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287583@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287583@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0805_R_0805_M_2.4K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287919@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287919@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287919@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0805_R_0805_M_4.7K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288143@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288143@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288143@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0805_R_0805_M_50M':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287983@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287983@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287983@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0805_R_0805_M_13K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288719@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288719@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288719@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RP_3296W_3296W_5K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS291307@MYLIBRARY.RP_3296W.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins291307@mylibrary.\rp_3296w.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins291307@mylibrary.\rp_3296w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288511@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288511@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288511@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS313661@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins313661@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins313661@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_0805_R_0805_M_1K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288627@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288627@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288627@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0805_R_0805_M_10K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284640@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284640@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284640@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0805_R_0805_M_500K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287815@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287815@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287815@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS331793@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins331793@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins331793@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS332242@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins332242@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins332242@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0805_R_0805_M_1K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288435@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288435@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288435@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0805_R_0805_M_500K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287643@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287643@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287643@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS313134@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins313134@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins313134@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0805_R_0805_M_20K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288327@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288327@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288327@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_0805_R_0805_M_1K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288123@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288123@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288123@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_0805_R_0805_M_1K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287795@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287795@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287795@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0805_R_0805_M_10K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS283756@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins283756@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins283756@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0805_R_0805_M_10K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS283996@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins283996@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins283996@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0805_R_0805_M_10K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS294469@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins294469@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins294469@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0805_R_0805_M_10K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS294443@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins294443@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins294443@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0805_R_0805_M_1.8M':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS286859@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins286859@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins286859@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0805_R_0805_M_2.4K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288531@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288531@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288531@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0805_R_0805_M_2.4K':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287299@MYLIBRARY.R_0805.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287299@mylibrary.\r_0805.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287299@mylibrary.\r_0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS343200@MYLIBRARY.SW_TSW_6X6X4_3_V.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins343200@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins343200@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS343440@MYLIBRARY.SW_TSW_6X6X4_3_V.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins343440@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins343440@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS343682@MYLIBRARY.SW_TSW_6X6X4_3_V.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins343682@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins343682@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW5 'SW_TSW_SMD_3X6X4_3_TSW_SMD_3_0_':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS283960@MYLIBRARY.SW_TSW_SMD_3X6X4_3.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins283960@mylibrary.\sw_tsw_smd_3x6x4_3.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins283960@mylibrary.\sw_tsw_smd_3x6x4_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW6 'SW_TSW_6X6X4_3_V_TSW_6_0_6_0_4_':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS343920@MYLIBRARY.SW_TSW_6X6X4_3_V.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins343920@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins343920@mylibrary.\sw_tsw_6x6x4_3_v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW7 'CSW_2P_CSW_1_27_SMD_2P_CSW_2P':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS294406@MYLIBRARY.CSW_2P.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins294406@mylibrary.\csw_2p.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins294406@mylibrary.\csw_2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288163@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288163@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288163@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS313681@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins313681@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins313681@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T3 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS331813@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins331813@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins331813@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T4 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS332262@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins332262@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins332262@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T5 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS313154@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins313154@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins313154@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T6 'IN_14_IN_14_IN_14':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287399@ELECTRON_NIXIE TUBE.IN_14.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287399@\electron_nixie tube\.\in_14.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287399@\electron_nixie tube\.\in_14.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'DS3231_SOP16_W_DS3231':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284564@ICS.DS3231.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284564@ics.\ds3231.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284564@ics.\ds3231.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288551@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288551@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288551@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287683@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287683@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287683@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 '74HC595D_SOP127P600X140-16N_74H':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287319@ICS.74HC595D.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287319@ics.\74hc595d.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287319@ics.\74hc595d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS286967@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins286967@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins286967@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U14 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288023@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288023@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288023@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'STM32F103RC_LQFP64_10X10_STM32F':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284992@MYLIBRARY.STM32F103RC-1.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284992@mylibrary.\stm32f103rc-1.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284992@mylibrary.\stm32f103rc-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-1';
+
+SECTION_NUMBER 2
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284280@MYLIBRARY.STM32F103RC-2.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284280@mylibrary.\stm32f103rc-2.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284280@mylibrary.\stm32f103rc-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='-2';
+
+PART_NAME
+ U3 'MAX1771_SOP8_MAX1771':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288667@ICS.MAX1771.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288667@ics.\max1771.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288667@ics.\max1771.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'AO48XX_SOIC127P600X150-8N_AO48X':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287939@ICS.AO48XX.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287939@ics.\ao48xx.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287939@ics.\ao48xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'AO48XX_SOIC127P600X150-8N_AO48X':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287539@ICS.AO48XX.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287539@ics.\ao48xx.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287539@ics.\ao48xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 '74HC595D_SOP127P600X140-16N_74H':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287219@ICS.74HC595D.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287219@ics.\74hc595d.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287219@ics.\74hc595d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287119@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287119@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287119@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'SN74141N_DIP16_300_SN74141':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS287463@ICS.SN74141N.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins287463@ics.\sn74141n.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins287463@ics.\sn74141n.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 '74HC595D_SOP127P600X140-16N_74H':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS288247@ICS.74HC595D.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins288247@ics.\74hc595d.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page2_ins288247@ics.\74hc595d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB_5P_USB_MICRO_A_USB_5P':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS285640@MYLIBRARY.USB_5P.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins285640@mylibrary.\usb_5p.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins285640@mylibrary.\usb_5p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ V1 'AMS1117_3V3_SOT223_N_AMS1117_3V':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284516@MYLIBRARY.AMS1117_3V3.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284516@mylibrary.\ams1117_3v3.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284516@mylibrary.\ams1117_3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'OSC_49S_OSC_HC_49S_8MHZ':;
+
+SECTION_NUMBER 1
+ '@NIXIECUBEBOARD_V1_1.SCHEMATIC1(SCH_1):INS284136@MYLIBRARY.OSC_49S.NORMAL(CHIPS)':
+ C_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):ins284136@mylibrary.\osc_49s.normal\(chips)',
+ P_PATH='@nixiecubeboard_v1_1.schematic1(sch_1):page1_ins284136@mylibrary.\osc_49s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
